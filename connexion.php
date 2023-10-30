@@ -26,7 +26,7 @@
                     <input type="password" name="password" placeholder="Mot de passe">
                 </div>
                 <div class="input_box">
-                    <a href="inscription.php">Creer un Compte</a>
+                    <a href="index.php">Creer un Compte</a>
                     <button class="button2"><b>Se connectre</b></button>
                 </div>
             </form>
